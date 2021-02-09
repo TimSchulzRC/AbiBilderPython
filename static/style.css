@@ -1,5 +1,5 @@
 body {
-  background-color: #dbe2ef;
+  background-color: #222831;
 }
 
 h1 {
@@ -18,7 +18,8 @@ h2 {
 
 /* Top Part */
 .top-part {
-  background-color: #3f72af;
+  background-color: #00adb5;
+  color: #222831;
   height: 100vh;
   width: 100vw;
   display: table-cell;
